@@ -1,0 +1,8 @@
+name: SwimQuest
+version: '1.0-beta'
+main: dev.Fjc.swimQuest.SwimQuest
+api-version: '1.21'
+prefix: MythicGodBlocker
+load: STARTUP
+authors: [ Fjc ]
+description: Damages any mob that comes into contact with your minecart.
